@@ -1,0 +1,6 @@
+1.百度网盘依赖包https://pan.baidu.com/s/1smhgD2H  密码：llng
+2.修改连接配置
+3.在redis里加代码
+hset red_packet_8 stock 20000
+hset red_packet_8 unit_amount 10
+4.就可以执行了访问浏览器自己刷新redis视图就能看到效果了
